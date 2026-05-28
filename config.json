@@ -1,0 +1,39 @@
+{
+  "anniversary": "2024-01-01",
+  "photos": [],
+  "places": [],
+  "timeline": [
+    {
+      "date": "初见",
+      "realDate": "",
+      "title": "第一次相遇",
+      "desc": "那天阳光正好，你的笑容让我一眼就记住了你。"
+    },
+    {
+      "date": "确定关系",
+      "realDate": "",
+      "title": "我们在一起了",
+      "desc": "那一天，世界都变成了粉红色。"
+    },
+    {
+      "date": "第一次旅行",
+      "realDate": "",
+      "title": "一起看世界",
+      "desc": "和你在一起的旅途，风景都变得更美。"
+    },
+    {
+      "date": "你的生日",
+      "realDate": "",
+      "title": "陪你过的生日",
+      "desc": "只想每年都陪在你身边，对你说生日快乐。"
+    }
+  ],
+  "loveMessages": [],
+  "mapCenter": [
+    30.5,
+    114.3
+  ],
+  "mapZoom": 5,
+  "galleryMode": "photos",
+  "qqAlbumUrl": ""
+}
